@@ -1,6 +1,6 @@
 ---
 title: "A long time coming..."
-date: 2019-10-30T14:19:15-06:00
+date: 2019-11-01:19:15-06:00
 categories:
 - Job
 - Webperf
@@ -16,6 +16,7 @@ keywords:
 - cliff crocker
 #thumbnailImage: /img/speedcurve.png
 ---
+*This post originally appeared on the SpeedCurve [blog](https://speedcurve.com/blog).*
 ![alt text](/img/speedcurve.png "SpeedCurve logo")
 
 I’ve joined SpeedCurve! I’m thrilled to share this news and have never been more excited about a career change than I am today. I’ve known this cast of characters for a while and am humbled that they have brought me onto the team. As [Tammy put it](https://speedcurve.com/blog/tammy-everts-has-joined-speedcurve/) when she joined, if this crew invited you to work with them, “What would you say?”.
@@ -29,7 +30,6 @@ As a veteran in the performance industry, I’ve spent a large part of my career
 My journey has taken me to both sides - as a product leader focused on building tools and solutions for customers and a practitioner focused on creating a culture of performance for one the [world’s largest brands](https://www.slideshare.net/cliffcrocker/walmart-web-performance-circa-2013).
 
 <H1> What am I most excited about? </H1>
-What am I most excited about?
 As Chief Product Officer for SpeedCurve, I’m thrilled to continue this journey. I’ve been a longtime fan of the product and can’t wait to start contributing to its growth and adding more value for our customers!
 
 Here are some of the areas you’ll see me getting most excited about:
@@ -44,7 +44,7 @@ Traditionally, we’ve spent a lot of time focusing on entitled groups as it rel
 
 **Building performance culture across the organization**
 
-While you may say to yourself “nothing new here”, every day I see more and more opportunity to bring performance into the mainstream. Whether we adopt performance as a principle  when adopting design systems, set and maintain performance budgets for product owners, integrate [performance tests into our build systems](https://speedcurve.com/blog/performance-testing-in-ci-lets-break-the-build/) or simply create a conversation with non-technical users around perceived performance, there is always more to do in our organizations. Making performance data consumable by the masses is perhaps the thing I love most about SpeedCurve, and the thing I’m most excited to be contributing to and talking to you about...
+While you may say to yourself “nothing new here”, every day I see more and more opportunity to bring performance into the mainstream. Whether we adopt performance as a principle when in our design systems, set and maintain performance budgets for product owners, integrate [performance tests into our build systems](https://speedcurve.com/blog/performance-testing-in-ci-lets-break-the-build/) or simply create a conversation with non-technical users around perceived performance, there is always more to do in our organizations. Making performance data consumable by the masses is perhaps the thing I love most about SpeedCurve, and the thing I’m most excited to be contributing to and talking to you about...
 
 ...with one exception.
 
@@ -55,8 +55,6 @@ Building products and features “outside-in” is my top priority and guiding p
 <H1> What can you expect from me? </H1>
 While I’m diving into the product, vision and strategy, I’ll also be working closely with Tammy in her outreach to customers and prospective users to get insight as we build out our roadmap for SpeedCurve over the next year. 
 
-Keep an eye out for me at events and meetups in your area, and if you’d like to chat about the direction of the product -  or if you’d just like to catch up and learn more about SpeedCurve - I’d love to hear from you!
-
-[cliff@speedcurve.com](mailto:cliff@speedcurve.com)
+Keep an eye out for me at events and meetups in your area, and if you’d like to chat about the direction of the product -  or if you’d just like to catch up and learn more about SpeedCurve - [I’d love to hear from you!](mailto:cliff@speedcurve.com)
 
 [@cliffcrocker](https://twitter.com/cliffcrocker)
