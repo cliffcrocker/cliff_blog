@@ -1,6 +1,6 @@
 ---
 title: "A long time coming..."
-date: 2019-11-01T11:15-06:00
+date: 2019-11-01T11:54:43-06:00
 categories:
 - Job
 - Webperf
